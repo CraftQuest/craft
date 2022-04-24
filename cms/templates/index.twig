@@ -1,11 +1,1 @@
-{% set orders = craft.entries
-    .section('orders')
-    .matrixCriteria('scoops', {
-        'type': 'default',
-        'nuts': true
-    })
-    .all() %}
-
-{% for order in orders %}
-    <p>Order with nuts: {{ order.title }}</p>
-{% endfor %}
+<h1>homepage</h1>

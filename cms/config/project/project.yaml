@@ -1,44 +1,28 @@
-dateModified: 1648326190
+dateModified: 1650769195
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    1aeaf5aa-fe37-42b5-aef9-f4556b92c43a: User # User
-    1f2ba12a-f04e-47d9-af2b-3e876c5adbce: Orders # Orders
     1f716763-7f9e-4ffd-9f8c-2c0e7ccf15f7: Selected # Selected
-    2b2ed478-8e77-4c39-a69a-56ad864557d1: 'Flavor Calories' # Flavor Calories
-    3d7dba4f-8e70-4965-acec-4e70f830a016: 'Flavor Price' # Flavor Price
     5c642d7e-b16b-4836-9575-668d75d242e5: Site # Site
     5da841b1-ca0d-46ff-8bb1-04d6c889ac54: English # English
     7a591e66-18df-490d-92b5-3fd3a3986f09: default # default
-    7c3fb4f3-2ba5-4834-9056-6712aa5c18f4: Pages # Pages
     8f804a45-ad1d-4a71-b0b4-6df2040dc205: Nuts # Nuts
     071aeb2b-e8eb-4bcf-825c-dd016745f107: Flavor # Flavor
-    86e92ff9-5119-4b99-b222-f3279dcc7818: Flavors # Flavors
-    88ffed5d-fece-4914-9e1a-a275577840d3: Default # Default
-    858b290d-45ae-4da8-8e51-2c03caefeee3: 'Disable Matrix Facades' # Disable Matrix Facades
     4828c563-32cf-4021-afeb-1d5e38f31daf: 'Accent Color' # Accent Color
     6005c2f9-5d85-4442-b712-22e070096ac8: 'Public Schema' # Public Schema
     6359fe58-db81-4ee6-94eb-e9f4e3c61da6: Notes # Notes
-    9265d2f0-4fa5-4187-8ee4-b6eb8808e295: Pages # Pages
-    92425d88-9e0a-4213-b474-f553f37261c2: Orders # Orders
-    682126f6-e053-4b1d-b707-82879cb43392: 'Flavor Image' # Flavor Image
-    10571998-751e-449a-98c5-d48adf32034b: Flavors # Flavors
-    46862260-8c13-44f7-9a4e-a3cb6e1a22b3: Default # Default
-    ade97714-e4c4-4c73-9322-2c6b398cef04: 'Colors Swatches' # Colors Swatches
     c2e2b69d-127d-4afe-8032-0209247e70de: default # default
-    c6fb33da-e3f0-4f50-a4c5-4cce12415e80: Scoops # Scoops
-    d2e0ba28-01c7-4060-8087-0c12e978341b: Default # Default
     dd87a305-fb8e-4bc0-965b-8afadc876934: Syrup # Syrup
     e7500fc4-6a5e-4656-8947-27c47c0c9dd8: Whip # Whip
     f652db8c-edc2-4a66-8241-2fb0787110ee: 'Primary Color' # Primary Color
     f89601e9-4ba9-4a48-9e99-350aa9914912: default # default
 system:
-  edition: solo
+  edition: pro
   live: true
-  name: matrixfacades
+  name: 'Craft CMS'
   retryDuration: 60
   schemaVersion: 3.7.33
   timeZone: America/New_York

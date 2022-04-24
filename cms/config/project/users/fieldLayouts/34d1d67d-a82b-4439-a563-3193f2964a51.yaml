@@ -2,7 +2,7 @@ tabs:
   -
     elements:
       -
-        fieldUid: 858b290d-45ae-4da8-8e51-2c03caefeee3 # Disable Matrix Facades
+        fieldUid: 858b290d-45ae-4da8-8e51-2c03caefeee3
         instructions: null
         label: null
         required: false
