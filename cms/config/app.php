@@ -22,12 +22,12 @@ use modules\sitemodule\SiteModule;
 
 return [
     'id' => App::env('APP_ID') ?: 'CraftCMS',
-    'modules' => [
-        'site-module' => [
-            'class' => SiteModule::class,
-        ],
-    ],
-    'bootstrap' => ['site-module'],
+//    'modules' => [
+//        'site-module' => [
+//            'class' => SiteModule::class,
+//        ],
+//    ],
+    'bootstrap' => [],
     'components' => [
         'cache' => [
             'class' => yii\redis\Cache::class,

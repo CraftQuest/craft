@@ -1,8 +1,16 @@
-dateModified: 1650769195
+dateModified: 1650770812
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  site:
+    hasUrls: true
+    name: Site
+    settings:
+      path: '@webroot/assets/site'
+    type: craft\fs\Local
+    url: '@web/assets/site'
 meta:
   __names__:
     1f716763-7f9e-4ffd-9f8c-2c0e7ccf15f7: Selected # Selected
@@ -24,5 +32,5 @@ system:
   live: true
   name: 'Craft CMS'
   retryDuration: 60
-  schemaVersion: 3.7.33
+  schemaVersion: 4.0.0.8
   timeZone: America/New_York
