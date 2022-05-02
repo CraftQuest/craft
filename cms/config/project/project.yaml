@@ -1,4 +1,4 @@
-dateModified: 1650770812
+dateModified: 1651529655
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -27,10 +27,15 @@ meta:
     e7500fc4-6a5e-4656-8947-27c47c0c9dd8: Whip # Whip
     f652db8c-edc2-4a66-8241-2fb0787110ee: 'Primary Color' # Primary Color
     f89601e9-4ba9-4a48-9e99-350aa9914912: default # default
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: pro
   live: true
   name: 'Craft CMS'
   retryDuration: 60
-  schemaVersion: 4.0.0.8
+  schemaVersion: 4.0.0.9
   timeZone: America/New_York
