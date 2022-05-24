@@ -1,5 +1,5 @@
 # Craft CMS 4 Starter
-_Based on a Craft 3 starter by Andrew Welch of @nystudio107_
+_Based on a Craft 3 starter by [Andrew Welch of @nystudio107](https://nystudio107.com)_
 
 
 This starter can be used by anyone but @ryanirelan created it for his courses @CraftQuest courses. 
