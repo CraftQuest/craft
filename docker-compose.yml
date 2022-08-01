@@ -77,8 +77,8 @@ services:
       MYSQL_USER: project
       MYSQL_PASSWORD: project
     init: true
-    expose:
-      - "3306"
+    ports:
+      - "3306:3306"
     volumes:
       - db-data:/var/lib/mysql
       - ./db-seed:/docker-entrypoint-initdb.d
