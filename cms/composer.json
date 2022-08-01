@@ -1,8 +1,9 @@
 {
-  "name": "nystudio107/matrixfacades",
-  "description": "This is a project demonstrates how to improve authoring experience Matrix Façades.",
+  "name": "craftquest/craft",
+  "description": "A starter Craft project for Craft CMS Training. Based on a repository by @nystudio107.",
   "require": {
-    "craftcms/cms": "^3.7.0",
+    "craftcms/cms": "^4.0.0-beta.4",
+    "craftcms/redactor": "^3.0.0-beta.1",
     "nystudio107/craft-autocomplete": "^1.0.0",
     "vlucas/phpdotenv": "^5.4.0",
     "yiisoft/yii2-redis": "^2.0.6"
@@ -23,7 +24,7 @@
     "optimize-autoloader": true,
     "sort-packages": true,
     "platform": {
-      "php": "7.2.5"
+      "php": "8.0.2"
     }
   },
   "scripts": {
