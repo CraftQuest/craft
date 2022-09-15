@@ -12,8 +12,7 @@
   ],
   "plugins": [
     "fullscreen",
-    "video",
-    "richvariables"
+    "video"  
   ],
   "linkNewTab": true,
   "toolbarFixed": true
