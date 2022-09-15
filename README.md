@@ -15,7 +15,7 @@ To use this starter project, you will need to run Docker Desktop (see below, #3)
 
 ### Running the Project Locally
 
-1. Install (or open) [Docker Desktop](https://www.docker.com/products/docker-desktop/) for you operating system.
+1. Install (or open) [Docker Desktop](https://www.docker.com/products/docker-desktop/) for your operating system.
 2. In a terminal window, run `make dev` to start up the Docker containers and launch the starter site. 
 3. Once initial build is complete (you should "Ready to handle connections"), point your browser to http://localhost:8888
 
